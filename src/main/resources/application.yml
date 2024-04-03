@@ -3,7 +3,7 @@ spring:
     mongodb:
       username: ptatarczuk
       password: haslo123
-      host: loocalhost
+      host: localhost
       port: 27017
       database:  chat_app
       authentication-database: admin
